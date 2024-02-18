@@ -1,1 +1,1 @@
-# To-Do-List
+The "To-Do List" is a basic web application that allows users to manage their tasks effectively. The project provides a clean and intuitive interface where users can easily add new tasks to their to-do list. Each task is displayed as an item in the list, and users can mark tasks as completed or remove them from the list.
